@@ -1,0 +1,22 @@
+header{
+	width: 100%;
+	height: auto;
+	background:yellow;
+    font-family:'Quicksand', sans-serif;
+}
+
+nav>a{
+	position: relative;
+	display: inline-block;
+    font-family:'Quicksand', sans-serif;
+	font-size: 18px;
+	line-height: 40px;
+	padding: 0 2em;
+	-webkit-transition: all .3s ease;
+}
+nav>a:hover{
+	background: rgba(255,255,255,.9);
+	color: black;
+    font-family:font-family: 'Quicksand', sans-serif;
+
+}
