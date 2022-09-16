@@ -25,11 +25,15 @@ nav>a:hover{
 }
 
 .jbg {
+    position:relative;
+    right: 50px;
     
 }
 section {
     font-family:'Quicksand', sans-serif;
     position: relative;
+    left: 725px;
+    bottom:500px;
     font-size: larger;
    
 
@@ -37,6 +41,9 @@ section {
 
 button {
     position: relative;
+    bottom: 400px;
+    left: 975px;
+
     display: inline-block;
     cursor: pointer;
     outline: none;
