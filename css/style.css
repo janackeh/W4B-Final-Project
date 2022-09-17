@@ -33,7 +33,7 @@ section {
     font-family:'Quicksand', sans-serif;
     position: relative;
     left: 725px;
-    bottom:500px;
+    bottom:550px;
     font-size: larger;
    
 
@@ -41,7 +41,7 @@ section {
 
 button {
     position: relative;
-    bottom: 400px;
+    bottom: 450px;
     left: 975px;
 
     display: inline-block;
@@ -129,3 +129,25 @@ button {
    button:hover .button-text {
     color: #fff;
    }
+footer {
+    position: relative;
+    bottom: 350px;
+    left: 925px;
+    font-family:'Quicksand', sans-serif;
+
+}
+.form {
+    font-family:'Quicksand', sans-serif;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.map {
+    position:relative;
+    top: 200px;
+    left: 150px;
+}
+.about {
+    position:relative;
+    bottom: 700px;
+}
